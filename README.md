@@ -1,7 +1,9 @@
 <!-- ========================================================= -->
 <!--                 MOUHAMED NDOYE GITHUB PROFILE              -->
 <!-- ========================================================= -->
-
+<p align="center">
+  <img src="./banner.png" alt="Mouhamed Ndoye Banner" width="100%">
+</p>
 <div align="center">
 
 # 👋 Bonjour, je suis Mouhamed Ndoye
